@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Paloma Stéfane!
+# 🦥 Olá, eu sou Paloma Stéfane!
 
 Sou estudante de **Desenvolvimento Web com PHP** e estou aprendendo a construir aplicações web modernas. Este repositório serve como meu portfólio de projetos e exercícios do curso. 🚀
 
@@ -7,6 +7,12 @@ Sou estudante de **Desenvolvimento Web com PHP** e estou aprendendo a construir 
 - **Banco de Dados:** MySQL
 - **Frameworks:** Laravel, Bootstrap
 - **Ferramentas:** Git, GitHub, VS Code, XAMPP
+
+## 📌 Projetos e Exercícios
+Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
+
+🔹 [Projeto 1](https://github.com/PalomaStefane)
+🔹 [Projeto 2](https://github.com/PalomaStefane/NossoProjeto) 
 
 
 ## 📖 O que estou aprendendo
